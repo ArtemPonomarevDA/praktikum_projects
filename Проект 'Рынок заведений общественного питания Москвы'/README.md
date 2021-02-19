@@ -2,7 +2,9 @@
 
 Используемые библиотеки:
 
-<b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>plotly</b>, <b>requests<b>, <b>io</b>
+<b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>plotly</b>, <b>requests</b>, <b>io</b>
+  
+Этапы проекта:
 
 * предобработка данных;
 * исследовательский анализ данных (EDA);
